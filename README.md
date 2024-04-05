@@ -1,5 +1,5 @@
 # Final-Project-Group-21
-Team Name: come back to it
+Team Name: Data Pioneers
 <br>
 Group Members: Nessa Purohit (nbp13@pitt.edu) , Shawn Li (shl362@pitt.edu) , Christopher Achkar (caa152@pitt.edu)
 <br>
