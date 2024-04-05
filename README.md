@@ -8,4 +8,4 @@ Links to data sets:
 - Shawn: My dataset was police arrests since 2011. Link: [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
 - Christopher: My dataset was school enrollment in 2015 by all races. [School Enrollment Dataset](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f)
 
-We measured Squirrel Hill North to be the best neighborhood in terms of quality of life, since it has high education rates, high employment rates, and low arrest rates. 
+This repository measured the best neighborhood by a chosen metric, which was Squirrel Hill North for quality of life since it has high education, employment, and low arrest rates.
